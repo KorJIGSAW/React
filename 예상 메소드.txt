@@ -1,0 +1,10 @@
+게임 예상 메소드
+
+1. 로그인 메소드 
+2. 유저의 정보 메소드
+3. 유저간 점수 표기 및 순위 정렬 메소드
+4. 게임 실행 메소드
+5. 게임 점수카운트 메소드
+6. 게임 종료 미 재시작 메소드
+
+Login(), UserData(), Ranking(), RankingSort(), Game(), CountScore(), Restart(), Exit()
